@@ -1,1 +1,1 @@
-![](chat-app/src/chat.gif)
+![](chat-app/chat.gif)
